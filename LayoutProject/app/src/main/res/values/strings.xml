@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LayoutProject</string>
+    <string name="imagen">Imagen Layout</string>
+    <string name="universidad">https://www.javeriana.edu.co/inicio</string>
+    <string-array name="nivel_educativo">
+        <item>Primaria</item>
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Posgrado</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
